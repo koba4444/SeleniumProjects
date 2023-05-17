@@ -1,0 +1,12 @@
+1671827375731	geckodriver	INFO	Listening on 127.0.0.1:44177
+/snap/firefox/current/firefox.launcher: 41: exec: /snap/pycharm-professional/314/usr/lib/firefox/firefox: not found
+1671827375738	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileo81l06"
+/snap/firefox/current/firefox.launcher: 41: exec: /snap/pycharm-professional/314/usr/lib/firefox/firefox: not found
+1671827458699	geckodriver	INFO	Listening on 127.0.0.1:47521
+/snap/firefox/current/firefox.launcher: 41: exec: /snap/pycharm-professional/314/usr/lib/firefox/firefox: not found
+1671827458703	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefAfHwq"
+/snap/firefox/current/firefox.launcher: 41: exec: /snap/pycharm-professional/314/usr/lib/firefox/firefox: not found
+1671828113582	geckodriver	INFO	Listening on 127.0.0.1:55787
+/snap/firefox/current/firefox.launcher: 41: exec: /snap/pycharm-professional/314/usr/lib/firefox/firefox: not found
+1671828113586	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN9YikD"
+/snap/firefox/current/firefox.launcher: 41: exec: /snap/pycharm-professional/314/usr/lib/firefox/firefox: not found
